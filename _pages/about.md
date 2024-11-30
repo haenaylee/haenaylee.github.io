@@ -21,4 +21,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-Let's chat! The best way to reach me is by email at <a href="mailto:hylee2716@gmail.com">hylee2716@gmail.com</a>.
+Let's chat! The best way to reach me is by email at <a href="mailto:hylee2716@gmail.com">`hylee2716@gmail.com`</a>.
