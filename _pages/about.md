@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Human-centered engineer & aspiring artist. Previous Research Engineer II at <a href='https://www.hss.edu/biomechanics-research-staff.asp'>Hospital for Special Surgery</a>.
+subtitle: Human-centered engineer & aspiring artist. 
+Previous Research Engineer II at <a href='https://www.hss.edu/biomechanics-research-staff.asp'>Hospital for Special Surgery</a>.
 
 profile:
   align: right
