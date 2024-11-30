@@ -3,6 +3,16 @@
  ******************************************************************************/
 
 // Typography
+@font-face {
+  font-family: 'Latin Modern';
+  src: url('/assets/fonts/latin-modern/latinmodern-roman.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Latin Modern', serif;
+}
 
 p,
 h1,
