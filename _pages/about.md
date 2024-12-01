@@ -26,12 +26,12 @@ I would love to connect with you and hear your story. The best way to reach me i
 
 _My name: First name is Haena-Young ("HAN-nah young"), last name is Lee, and I go by Haena. It is Romanized Korean and means 'the warm spirit of the rising sun.'_ 🌅
 
-<br><br>
+<br>
 
-Research topics that I am interested in studying further:
+A graphical representation of research topics that I am interested in:
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/researchInterests.jpg" title="researchInterests" class="img-fluid rounded z-depth-1" style="padding: 20px;" %}
+        {% include figure.liquid loading="eager" path="assets/img/researchInterests.jpg" title="researchInterests" class="img-fluid rounded z-depth-1" style="padding: 120px;" %}
     </div>
 </div>
 <div class="caption">
