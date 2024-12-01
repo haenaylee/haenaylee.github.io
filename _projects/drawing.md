@@ -25,7 +25,7 @@ My goal is to practice the Renaissance-era style of drawing (and later, painting
     </div>
 </div>
 <div class="caption">
-    Left: My very first figure drawing and first time trying shadowing, prior to any formal art instruction. Center: Some practice sketches while watching YouTube videos on Renaissance drawing. Right: Tried drawing a character from a popular anime.
+    Left: My first figure drawing and first time trying shadowing, prior to any formal art instruction. Center: Some practice sketches while watching YouTube videos on Renaissance drawing. Right: Tried drawing a character from a popular anime.
 </div>
 
 I commissioned a local woodworker for a lovely desk to house all my art supplies - pictures coming soon.
