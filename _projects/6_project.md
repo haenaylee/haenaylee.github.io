@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: The Blair Book
+description: My first publication
 img: assets/img/9.jpg
-importance: 2
+importance: 6
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
