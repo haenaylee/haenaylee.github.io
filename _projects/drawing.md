@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drawing
+title: drawing
 description: Learning to reconnect with childhood.
 img: assets/img/drawing_background.jpg
 importance: 1
