@@ -27,6 +27,7 @@
       "name": "Department of Biomechanics, Hospital for Special Surgery",
       "position": "Research Engineer II",
       "url": "https://www.hss.edu/biomechanics-research-staff.asp",
+      "location": "New York City, NY",
       "startDate": "2021-04",
       "endDate": "2024-06",
       "summary": "Managed and executed 6 computational and experimental research projects totaling over $273k in funding. Collaborated closely with engineers, clinicians, and industry experts.",
@@ -68,14 +69,13 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Data Science for Social Good",
+      "position": "Mentor",
+      "url": "https://dataforsocialgood.weebly.com/",
+      "startDate": "2021-07",
+      "endDate": "2021-08",
+      "summary": "Mentored a student on her data science project.",
+      "highlights": ["Mentoring"]
     }
   ],
   "education": [
