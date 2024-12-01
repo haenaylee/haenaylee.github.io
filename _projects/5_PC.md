@@ -4,7 +4,7 @@ title: Building my PC
 description: with background image
 img: assets/img/4.jpg
 importance: 5
-category: work
+category: fun
 related_publications: true
 ---
 
