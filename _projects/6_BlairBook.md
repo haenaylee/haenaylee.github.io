@@ -3,7 +3,7 @@ layout: page
 title: The Blair Book
 description: My first publication
 img: assets/img/9.jpg
-importance: 6
+importance: 3
 category: fun
 giscus_comments: false
 ---
