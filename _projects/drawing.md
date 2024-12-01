@@ -7,22 +7,21 @@ importance: 1
 category: fun
 ---
 
-After graduating from college, I've thought a lot about what kind of life or career might make me happy.
+After my first job out of college, I've been thinking a lot about what kind of life or career might make me happy. I thought about the things that sparked me as a kid and began to reintroduce them back into my life, hoping they might point me in the right directions.
 
-I've recently began introducing more of my childhood passions back into my life. I think those things that sparked us as a kid
-English and art were the subjects I were effortlessly good at as a kid. From elementary to high school, I would write consistently write ten pages for a one page prompt, or go into the art classroom every lunch and recess to perfect my dragon teapot sculpture. I lost touch with my creative side for a while
+English and art were the subjects I were effortlessly good at as a kid. From elementary to high school, I would  consistently write ten pages for a one page prompt, or spend every lunch and recess in the art classroom perfecting my sculptures. I lost touch with my creative side while I was focusing on becoming an engineer, but I am thrilled to revisit it as an adult, with an extraordinary sense of artistic and financial freedom.
 
 My goal is to practice the Renaissance-era style of drawing (and perhaps painting) until I can bring a particular vision of mine to life. It will be my way of acknowledging and processing the suffering in the world.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/practice.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/practice.jpg" title="practice" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dancer.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dancer.jpg" title="dancer" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hisoka.jpg" title="hisoka" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hisoka.jpg" title="hisokas" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
