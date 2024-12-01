@@ -18,7 +18,7 @@ Hi there, I'm Haena! I'm a mechanical engineer working to advance 'human-centere
 
 For the past three years, I worked as a Research Engineer II in the <a href='https://www.hss.edu/biomechanics-research-staff.asp'>Department of Biomechanics</a> at the Hospital for Special Surgery in NYC. Prior to that, I graduated from Cornell University with a B.S. and M.Eng in Mechanical Engineering.
 
-My main technical skills include computational methods (CAD, FEA, CFD, ML, programming) and experimental methods (motion capture, fabrication, manufacturing). I'm also a decent public speaker.
+My main technical skills include computational methods (CAD, FEA, CFD, ML, programming) and experimental methods (motion capture, mechanical testing, fabrication, manufacturing). I'm also a decent public speaker.
 
 Outside of work, I love to read, draw Renaissance style art, play video games, and take care of my two cats and 70+ plants. I'm also constantly thinking of creative ways to design and renovate my living spaces. My long-term dreams include creating schools in rural areas, creating a cat sanctuary with my mom, and operating a vintage coffee/book/flower shop as a safe space for people in my community.
 
