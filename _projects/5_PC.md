@@ -3,7 +3,7 @@ layout: page
 title: Building my PC
 description: with background image
 img: assets/img/4.jpg
-importance: 5
+importance: 2
 category: fun
 related_publications: true
 ---
