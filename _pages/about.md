@@ -25,3 +25,18 @@ Outside of work, I love to <a href='https://www.librarything.com/catalog/haenayl
 I would love to connect with you and hear your story. The best way to reach me is by email at <a href="mailto:hylee2716@gmail.com">hylee2716@gmail.com</a>.
 
 _My name: First name is Haena-Young ("HAN-nah young"), last name is Lee, and I go by Haena. It is Romanized Korean and means 'the warm spirit of the rising sun.'_ 🌅
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/researchInterests.jpg" title="researchInterests" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/practice.jpg" title="practice" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/hisokas.jpg" title="hisokas" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left: My first figure drawing and first time trying shadowing, prior to any formal art instruction. Center: Some practice sketches while watching YouTube videos on Renaissance drawing. Right: Tried drawing a character from a popular anime.
+</div>
