@@ -5,7 +5,7 @@
     "image": "",
     "email": "hylee2716@gmail.com",
     "phone": "410-528-3164",
-    "url": "haenaylee.github.io",
+    "url": "https://haenaylee.github.io",
     "summary": "An engineer interested in human-centered biomedical engineering.",
     "location": {
       "address": "",
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Department of Biomechanics, Hospital for Special Surgery",
+      "position": "Research Engineer II",
+      "url": "https://www.hss.edu/biomechanics-research-staff.asp",
+      "startDate": "2021-04",
+      "endDate": "2024-06",
+      "summary": "Managed and executed 6 computational and experimental research projects totaling over $273k in funding. Collaborated closely with engineers, clinicians, and industry experts.",
+      "highlights": ["FEA", "Mechanical testing"]
     }
   ],
   "volunteer": [
