@@ -3,7 +3,7 @@ layout: page
 title: Drawing
 description: Learning to reconnect with childhood
 img: assets/img/1.jpg
-importance: 4
+importance: 1
 category: fun
 img: /assets/img/dancer.jpg
 ---
