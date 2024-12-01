@@ -16,6 +16,16 @@ social: false # includes social icons at the bottom of the page
 ---
 Hi there, I'm Haena! I'm a mechanical engineer working to advance 'human-centered biomedical engineering.' I aim to develop equitable and accessible healthcare technologies that understand the needs of patients and clinicians to provide the most optimal personalized care.
 
+Research topics that I am interested in studying further:
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/researchInterests.jpg" title="researchInterests" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    caption
+</div>
+
 For the past three years, I worked as a Research Engineer II in the <a href='https://www.hss.edu/biomechanics-research-staff.asp'>Department of Biomechanics</a> at the Hospital for Special Surgery in NYC. Prior to that, I graduated from Cornell University with a B.S. and M.Eng in Mechanical Engineering.
 
 My main technical skills include computational methods (CAD, FEA, CFD, ML, programming) and experimental methods (motion capture, mechanical testing, fabrication, manufacturing). I'm also a decent public speaker.
@@ -26,14 +36,5 @@ I would love to connect with you and hear your story. The best way to reach me i
 
 _My name: First name is Haena-Young ("HAN-nah young"), last name is Lee, and I go by Haena. It is Romanized Korean and means 'the warm spirit of the rising sun.'_ 🌅
 
-<br><br><br>
+<br><br>
 
-Research topics that I am interested in studying further:
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/researchInterests.jpg" title="researchInterests" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    caption
-</div>
