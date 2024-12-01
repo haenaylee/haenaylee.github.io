@@ -22,6 +22,6 @@ My main technical skills include computational methods (CAD, FEA, CFD, ML, progr
 
 Outside of work, I love to read, draw Renaissance style art, play video games, and take care of my two cats and 70+ plants. I'm also constantly thinking of creative ways to design and renovate my living spaces. My long-term dreams include creating schools in rural areas, creating a cat sanctuary with my mom, and operating a vintage coffee/book/flower shop as a safe space for people in my community.
 
-The best way to reach me is by email at <a href="mailto:hylee2716@gmail.com">hylee2716@gmail.com</a>.
+I am always interested in connecting with people and hearing their stories, so please feel free to reach out. The best way to reach me is by email at <a href="mailto:hylee2716@gmail.com">hylee2716@gmail.com</a>.
 
 * My name: First name is Haena-Young ("HAN-nah young"), last name is Lee, and I go by Haena. It is Romanized Korean and means 'the warm spirit of the rising sun.' 🌅
