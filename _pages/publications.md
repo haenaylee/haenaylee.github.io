@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: starting from the most recent.
+description: starting with the most recent.
 nav: true
 nav_order: 2
 ---
