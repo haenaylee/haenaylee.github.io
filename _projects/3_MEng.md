@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Time series analysis of simulated thrombosis
-description: ML study from MEng
+description: MEng study with machine learning
 img: assets/img/7.jpg
 importance: 3
 category: work
