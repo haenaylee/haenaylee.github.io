@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Loading femoral fracture models
-description: Four experimental studies
+description: Four HSS experimental studies
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
