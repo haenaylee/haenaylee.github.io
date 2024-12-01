@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Loading femoral fracture models
-description: a project with a background image and giscus comments
+description: Four experimental studies
 img: assets/img/3.jpg
 importance: 2
 category: work
