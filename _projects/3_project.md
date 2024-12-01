@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Time series analysis of simulated thrombosis
-description: a project that redirects to another website
+description: ML study from MEng
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
