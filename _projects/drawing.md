@@ -9,9 +9,9 @@ category: fun
 
 After my first job out of college, I've been thinking a lot about what kind of life or career might make me happy. I thought about the things that sparked me as a kid and began to reintroduce them back into my life, hoping they might point me in the right directions.
 
-English and art were the subjects I were effortlessly good at as a kid. From elementary to high school, I would  consistently write ten pages for a one page prompt, or spend every lunch and recess in the art classroom perfecting my sculptures. I lost touch with my creative side while I was focusing on becoming an engineer, but I am thrilled to revisit it as an adult, with an extraordinary sense of artistic and financial freedom.
+English and art were the subjects I were effortlessly good at as a kid. From elementary to high school, I would  consistently write ten pages for a one page prompt, or spend every lunch and recess in the art classroom perfecting my sculptures. I lost touch with my creative side while I was focusing on becoming an engineer, but I am beyond thrilled to revisit it as an adult. Despite the loss of a child's wild imagination, in its stead is an extraordinary sense of artistic and financial freedom.
 
-My goal is to practice the Renaissance-era style of drawing (and perhaps painting) until I can bring a particular vision of mine to life. It will be my way of acknowledging and processing the suffering in the world.
+My goal is to practice the Renaissance-era style of drawing (and perhaps painting) until I can bring a particular vision of mine to life. It will be my way of acknowledging and grappling with the magnitude of suffering in the world. But I have yet to take classes 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,7 +25,7 @@ My goal is to practice the Renaissance-era style of drawing (and perhaps paintin
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Left: Some practice sketches while watching YouTube videos on Renaissance drawing. Center: Prior to any formal learning about drawing - my very first figure drawing and first time trying shadowing. so very proud of it, though I have a long way to go. Right: 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
