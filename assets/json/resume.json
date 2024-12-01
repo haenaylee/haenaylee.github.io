@@ -30,8 +30,41 @@
       "startDate": "2021-04",
       "endDate": "2024-06",
       "summary": "Managed and executed 6 computational and experimental research projects totaling over $273k in funding. Collaborated closely with engineers, clinicians, and industry experts.",
-      "highlights": ["FEA", "Mechanical testing"]
-    }
+      "highlights": ["FEA", "CAD", "Mechanical testing", "Motion capture"]
+    },
+    {
+      "name": "Micro/Nanofluidics Laboratory, Cornell University",
+      "position": "Graduate Student Researcher",
+      "url": "https://blogs.cornell.edu/kirbyresearch/",
+      "startDate": "2020-06",
+      "endDate": "2021-04",
+      "summary": "Developed a LSTM RNN for time-series analysis particle tracking of simulated thrombosis.",
+      "highlights": ["Machine learning"]
+    },
+    {
+      "name": "HNTB Corporation",
+      "position": "Engineering and Project Management Intern",
+      "startDate": "2019-06",
+      "endDate": "2019-08",
+      "summary": "Supported task order management of a $10 billion contract.",
+      "highlights": ["Project management"]
+    },
+    {
+      "name": "MAST Education",
+      "position": "Online Tutor",
+      "startDate": "2018-12",
+      "endDate": "2019-12",
+      "summary": "Tutored students in AP CS.",
+      "highlights": ["Tutoring"]
+    },
+    {
+      "name": "Freelance",
+      "position": "Private Tutor",
+      "startDate": "2021-04",
+      "endDate": "2015-06",
+      "summary": "Tutored students individually and in groups in a variety of subjects.",
+      "highlights": ["Tutoring"]
+    },
   ],
   "volunteer": [
     {
