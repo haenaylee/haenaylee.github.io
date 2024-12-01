@@ -2,15 +2,13 @@
 layout: page
 title: Drawing
 description: Learning to reconnect with childhood
-img: assets/img/1.jpg
+img: assets/img/drawing_background.jpg
 importance: 1
 category: fun
-img: /assets/img/dancer.jpg
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I've recently began introducing more of my childhood passions back into my life. I think those things that sparked us as a kid
+English and art were the subjects I were effortlessly good at as a kid. I would write consistently write ten pages for a one page prompt or go into the art classroom every lunch and recess to perfect my dragon teapot sculpture.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
