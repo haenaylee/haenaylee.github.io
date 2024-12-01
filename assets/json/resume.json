@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Haena-Young Lee",
+    "label": "Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hylee2716@gmail.com",
+    "phone": "410-528-3164",
+    "url": "haenaylee.github.io",
+    "summary": "An engineer interested in human-centered biomedical engineering.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "MD 21029",
+      "city": "Clarksville",
       "countryCode": "US",
-      "region": "California"
+      "region": "Maryland"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "haena-lee",
+        "url": "https://www.linkedin.com/in/haena-lee/"
       }
     ]
   },
