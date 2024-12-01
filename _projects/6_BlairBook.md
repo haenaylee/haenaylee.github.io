@@ -4,7 +4,7 @@ title: The Blair Book
 description: My first publication
 img: assets/img/9.jpg
 importance: 6
-category: work
+category: fun
 giscus_comments: false
 ---
 
