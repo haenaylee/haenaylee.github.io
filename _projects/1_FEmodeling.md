@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Patient-specific FE modelling of the hip
-description: Two computational studies
+title: Patient-specific FE modeling of the hip
+description: Two HSS computational studies
 img: assets/img/12.jpg
 importance: 1
 category: work
