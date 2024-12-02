@@ -29,7 +29,7 @@ _My name: First name is Haena-Young ("HAN-nah young"), last name is Lee, and I g
 <br>
 
 A graphical representation of research topics that I am interested in:
-<div class="row">
+<div class="row text-center">
     <div class="col-sm mt-3 mt-md-0 mx-5">
         {% include figure.liquid loading="eager" path="assets/img/researchInterests.jpg" title="researchInterests" class="img-fluid rounded z-depth-1 w-75" %}
     </div>
