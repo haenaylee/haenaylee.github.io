@@ -32,3 +32,5 @@ A graphical representation of various research topics that I am interested in. E
         {% include figure.liquid loading="eager" path="assets/img/researchInterests.jpg" title="researchInterests" class="img-fluid rounded z-depth-1 w-75" %}
     </div>
 </div>
+
+<br>
