@@ -2,7 +2,7 @@
 layout: page
 title: <em>The Blair Book</em>
 description: my first publication.
-img: assets/img/9.jpg
+img: assets/img/blairbook.png
 importance: 3
 category: fun
 giscus_comments: false
