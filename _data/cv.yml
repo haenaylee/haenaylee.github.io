@@ -5,6 +5,8 @@
       value: Haena-Young Lee
     - name: Email
       value: hylee2716@gmail.com
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/haena-lee">linkedin.com/in/haena-lee</a>
     - name: Languages
       value: English, Korean
 
@@ -13,7 +15,7 @@
   contents:
     - title: Master of Engineering
       institution: Cornell University, Ithaca, NY
-      year: 2020-2021
+      year: 2020 - 2021
       description:
         - title: Research project title
           contents: Developing a long short-term memory algorithm to predict simulated thrombosis behavior
@@ -26,22 +28,24 @@
             - Management
     - title: Bachelor of Science
       institution: Cornell University, Ithaca, NY
-      year: 2016-2020
+      year: 2016 - 2020
       description:
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Engineer II
+      institution: Dept of Biomechanics, Hospital for Special Surgery
+      year: 2021 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Managed 6 innovative research projects totaling over $273k in funding, collaborating closely with physicians and industry experts to translate clinical problems into engineering solutions.
+        - title: Developed the first computational finite element model of patient-specific flanged acetabular components (i.e., hip implants) to guide optimal treatment and classification of complex bone defects in revision total hip arthroplasties.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Performed retrieval analysis, CT image reconstructions, highly complex CAD modeling, finite element analysis, post-processing with scripts, technical writing, and presentations.
+        - title: Designed and executed 4 cadaveric studies investigating treatment of periprosthetic femoral fractures.
+          contents:
+            - Performed specimen preparation, additive and subtractive manufacturing, mechanical design and testing, motion capture, data analysis, technical writing, and presentations.
+        - Assisted with protocol development, data collection, and data analysis of colleagues’ projects.
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
