@@ -203,13 +203,6 @@
       ]
     },
     {
-      "name": "Data analysis & visualization",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Mechanical design & testing",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
@@ -279,12 +272,15 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information"
+        "Computational modeling",
+        "Machine learning",
+        "Design and accessibility",
+        "HCI",
+        "Haptics and perception",
+        "Algorithmic fairness"
       ]
     }
   ],
