@@ -18,7 +18,7 @@
       year: 2020 - 2021
       description:
         - title: Research project title
-          contents: Developing a long short-term memory algorithm to predict simulated thrombosis behavior
+          contents: *<em>Developing a long short-term memory algorithm to predict simulated thrombosis behavior</em>*
         - title: Coursework
           contents:
             - Fluid mechanics
