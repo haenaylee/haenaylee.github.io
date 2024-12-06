@@ -286,12 +286,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "name": "'The Blair Book'",
+      "summary": "Wrote and published The Blair Book: An insider’s guide to Montgomery Blair High School’s Magnet program and the college application process, a 92-page narrative about the education system and experience in Maryland and the college admissions process. Available as an Apple iBook, Amazon Kindle, and Amazon paperback.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "startDate": "2016-06",
+      "endDate": "2018-07",
+      "url": "https://www.amazon.com/Blair-Book-insiders-Montgomery-application/dp/1983270881"
     }
   ]
 }
