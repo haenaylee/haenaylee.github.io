@@ -74,8 +74,22 @@
       "url": "https://dataforsocialgood.weebly.com/",
       "startDate": "2021-07",
       "endDate": "2021-08",
-      "summary": "Mentored a student on her data science project.",
-      "highlights": ["Mentoring"]
+      "summary": "Mentored a student on her data science project."
+    },
+    {
+      "organization": "The Arc Montgomery County",
+      "position": "Child care volunteer (3-5 years)",
+      "url": "https://thearcmontgomerycounty.org/",
+      "startDate": "2015-07",
+      "endDate": "2015-10",
+      "summary": "Volunteered for child care (3-5 years) for 3 months at The Arc Montgomery County."
+    },
+    {
+      "organization": "Springhouse of Bethesda",
+      "position": "Musician",
+      "url": "",
+      "startDate": "2014",
+      "summary": "Performed violin solo and in a quartet for the Springhouse of Bethesda senior living community."
     }
   ],
   "education": [
@@ -296,14 +310,12 @@
       "name": "Girls Got IT!",
       "summary": "Won a $3000 National Center for Women and Information Technology (NCWIT) grant to develop my 2 week summer program, Girls Got IT!, to teach and mentor 16 girls (grades 3-8) in an underserved community about coding with Scratch and women in technology.",
       "startDate": "2016",
-      "endDate": "",
       "url": ""
     },
     {
       "name": "Project TEMP[O]",
       "summary": "Created a peer tutoring music program, Project TEMP[O], to direct resources (i.e., peer tutors and supply donations) to help students practice music; recognized by the National Association for Music Education as an official service project idea.",
       "startDate": "2016",
-      "endDate": "",
       "url": ""
     }
   ]
