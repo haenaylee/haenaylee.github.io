@@ -15,18 +15,19 @@
       institution: Cornell University, Ithaca, NY
       year: 2020-2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Research project title
+          contents: Developing a long short-term memory algorithm to predict simulated thrombosis behavior
+        - title: Coursework
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Fluid mechanics
+            - Computational fluid dynamics
+            - Machine learning
+            - Product design
+            - Management
     - title: Bachelor of Science
       institution: Cornell University, Ithaca, NY
       year: 2016-2020
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
