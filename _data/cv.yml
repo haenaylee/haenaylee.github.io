@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Haena-Young Lee
+    - name: Email
+      value: hylee2716@gmail.com
     - name: Languages
-      value: English, German
+      value: English, Korean
 
 - title: Education
   type: time_table
