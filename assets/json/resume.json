@@ -102,7 +102,6 @@
       "startDate": "2016-08",
       "endDate": "2020-05",
       "score": "",
-      "courses": [""]
     },
     {
       "institution": "Cornell University",
@@ -113,7 +112,7 @@
       "startDate": "2020-09",
       "endDate": "2021-05",
       "score": "",
-      "courses": ["Fluid mechanics", "CFD", "ML", "Product design", "Management"]
+      "courses": ["Fluid mechanics", "Computational fluid dynamics", "Machine learning", "Product design", "Management"]
     }
   ],
   "awards": [
