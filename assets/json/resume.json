@@ -291,6 +291,20 @@
       "startDate": "2016-06",
       "endDate": "2018-07",
       "url": "https://www.amazon.com/Blair-Book-insiders-Montgomery-application/dp/1983270881"
+    },
+    {
+      "name": "Girls Got IT!",
+      "summary": "Won a $3000 National Center for Women and Information Technology (NCWIT) grant to develop my 2 week summer program, Girls Got IT!, to teach and mentor 16 girls (grades 3-8) in an underserved community about coding with Scratch and women in technology.",
+      "startDate": "2016",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Project TEMP[O]",
+      "summary": "Created a peer tutoring music program, Project TEMP[O], to direct resources (i.e., peer tutors and supply donations) to help students practice music; recognized by the National Association for Music Education as an official service project idea.",
+      "startDate": "2016",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
