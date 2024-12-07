@@ -2,7 +2,7 @@
 layout: page
 title: time series analysis
 description: MEng ML study.
-img: assets/img/7.jpg
+img: assets/img/ML_background.png
 importance: 3
 category: work
 ---
