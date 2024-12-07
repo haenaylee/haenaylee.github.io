@@ -16,7 +16,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Large bone loss in revision THAs, hard to use off the shelf implants.
+    One of the most difficult complications to address in revision total hip arthroplasties is large bone loss in the pelvis. Due to the size and variability of the defects, it is hard to use conventional, off-the-shelf implants.
 </div>
 
 <div class="row">
@@ -25,7 +25,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Optimal combo of design and surgical decisions?
+    Patient-specific flanged acetabular components (FACs) are designed for such complex cases. However, it is difficult to determine the optimal combination of design and surgical decisions because there are many parameters at play.
 </div>
 
 <div class="row">
@@ -34,7 +34,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Methodology
+    We aimed to build a novel finite element (FE) model that can predict the location and method of implant failure by determining the biomechanical effects of different variables. We chose a representative patient, 
 </div>
 
 <div class="row">
@@ -46,17 +46,14 @@ related_publications: true
     Meshing, loading and BC, lateralization
 </div>
 
-<h1>Second study</h1>
+
+
+<h3>Second study</h3>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/FEA5.png" title="FEA5" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Cortical thickness and bone density
-</div>
-
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/FEA6.png" title="FEA6" class="img-fluid rounded z-depth-1" %}
     </div>
