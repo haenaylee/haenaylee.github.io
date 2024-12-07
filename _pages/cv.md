@@ -7,5 +7,4 @@ nav_order: 3
 cv_pdf: HaenaLee_CV.pdf
 description: You can download my academic CV from the PDF icon.
 toc:
-  sidebar: left
 ---
