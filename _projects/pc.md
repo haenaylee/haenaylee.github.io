@@ -14,11 +14,12 @@ My next goal is to make an updated version with water cooling.
 
 I want to acknowledge that this would not have been possible without my parents' financial support. I am so grateful to have had the privilege to be able to pursue this project thanks to my lovely parents.
 
-2024 update:
+//SPECS//
+<br> 2024 update:
 <br>RAM 32GB -> 64GB
 <br>GPU 2070 -> 3090
 
-Specs (2020 build):
+2020 build:
 <br>Intel Core i7
 <br>G.SKILL DDR4 RAM 32GB
 <br>WD Blue 2TB SSD
@@ -31,21 +32,13 @@ Specs (2020 build):
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pc1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pc1.jpg" title="pc1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pc2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pc2.jpg" title="pc2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pc3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pc3.jpg" title="pc3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -53,17 +46,6 @@ Specs (2020 build):
 </div>
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption.
-</div>
 
 {% raw %} 
 {% endraw %}
