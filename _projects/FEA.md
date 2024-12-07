@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-<h1>First study</h1>
+<h3>First study</h3>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -65,7 +65,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    results
+    Results
 </div>
 
 
