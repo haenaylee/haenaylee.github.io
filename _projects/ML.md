@@ -15,6 +15,7 @@ _Results:_ The root mean squared percentage errors (RMSPEs) were, on average, ab
 
 _Limitations:_ Since this was a feasibility study, the LSTM RNN was a standard model and was trained on a small dataset. However, the study showed that developing such deep learning tools for simulated biomedical applications could be done and creating an algorithm from start to finish was an invaluable experience.
 
+<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
