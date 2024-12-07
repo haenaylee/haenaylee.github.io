@@ -2,7 +2,7 @@
 layout: page
 title: computational hip modeling
 description: two HSS FEA studies.
-img: assets/img/12.jpg
+img: assets/img/FEA_background.png
 importance: 1
 category: work
 related_publications: true
