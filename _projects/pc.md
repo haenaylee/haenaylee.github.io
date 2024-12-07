@@ -18,11 +18,11 @@ I want to acknowledge that this would not have been possible without my parents'
 <br>GPU 2070 -> 3090
 
 2020 build:
-<br>Intel Core i7
-<br>G.SKILL DDR4 RAM 32GB
-<br>WD Blue 2TB SSD
+<br>Intel Core i7-10700 at 4.8 GHz
+<br>RAM 32GB
+<br>SSD 2TB
 <br>MSI GeForce RTX 2070
-<br>WD 2TB hard drive
+<br>Hard drive 2TB
 <br>OS: Ubuntu, Windows
 
 
