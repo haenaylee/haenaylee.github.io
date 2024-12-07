@@ -33,7 +33,7 @@ For the <a href='https://onlinelibrary.wiley.com/doi/10.1002/jor.25864'>first st
     </div>
 </div>
 
-We meshed the model into ~3.6 million linear tetrahedral elements. We assumed boundary conditions and transformed implant load forces from the open-source <a href='https://orthoload.com/'>Orthoload database</a> and applied two loads on the model. For the first study, we examined the biomechanical effects of lateralizing the hip center by an additional 1 cm. For the second study, we examined the effects of different cortical shell thicknesses and ischial cancellous bone densities.
+We meshed the model into ~3.6 million linear tetrahedral elements. We assumed boundary conditions and transformed implant load forces from the open-source <a href='https://orthoload.com/'>Orthoload</a> database and applied two loads on the model. For the first study, we examined the biomechanical effects of lateralizing the hip center by an additional 1 cm. For the second study, we examined the effects of different cortical shell thicknesses and ischial cancellous bone densities.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
