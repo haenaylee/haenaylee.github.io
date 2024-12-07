@@ -2,7 +2,7 @@
 layout: page
 title: building a PC
 description: for machine learning.
-img: assets/img/4.jpg
+img: assets/img/pc_background.png
 importance: 2
 category: fun
 related_publications: false
