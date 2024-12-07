@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-Caption.
+// FIRST STUDY //
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -37,12 +37,19 @@ Caption.
     Methodology
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/FEA4.png" title="FEA4" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Meshing, loading and BC, lateralization
+</div>
 
 
 
 
-
-
+// SECOND STUDY //
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
