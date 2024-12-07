@@ -14,7 +14,7 @@ My next goal is to make an updated version with water cooling.
 
 I want to acknowledge that this would not have been possible without my parents' financial support. I am so grateful to have had the privilege to be able to pursue this project thanks to my lovely parents.
 
-//SPECS//
+**// SPECS //**
 <br> 2024 update:
 <br>RAM 32GB -> 64GB
 <br>GPU 2070 -> 3090
