@@ -34,7 +34,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    We aimed to build a novel finite element (FE) model that can predict the location and method of implant failure by determining the biomechanical effects of different variables. We chose a representative patient, 
+    We aimed to build a novel finite element (FE) model that can predict the location and method of implant failure by determining the biomechanical effects of different variables. We chose a representative patient and utilized Mimics to reconstruct the bone geometry and obtain the materials. With insight from our team of experienced orthopaedic surgeons, we chose to model a common superomedial defect. With CAD, we created the defect in the reconstructed hip and designed a patient-specific FAC for this particular defect bone geometry.
 </div>
 
 <div class="row">
@@ -43,7 +43,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Meshing, loading and BC, lateralization
+    We meshed the model into ~3.6 million linear tetrahedral elements. We assumed boundary conditions and transformed implant load forces from the open-source <a href='https://orthoload.com/'>Orthoload database</a> and applied two loads on the model. For this first study, we examined the biomechanical effects of lateralizing the hip center by an additional 1 cm. We looked at the strains in the bone, the strains at the bone-implant interfaces, and the micromotions of the implant relative to the bone. We found that the additional lateralization worsened the load on the bone but it was not a catastrophic difference.
 </div>
 
 
