@@ -12,7 +12,7 @@ During my MEng (and the pandemic!), I created a PC to see if I could train my ma
 
 I want to acknowledge that this would not have been possible without my parents' financial support. I am so grateful to have had the privilege to be able to pursue this project thanks to my lovely and supportive parents.
 
-**// SPECS //**
+<h3>SPECS</h3>
 <br> 2024 update:
 <br>RAM 32GB -> 64GB
 <br>GPU 2070 -> 3090
