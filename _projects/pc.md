@@ -23,6 +23,7 @@ Intel Core i7
 G.SKILL DDR4 RAM 32GB
 WD Blue 2TB SSD
 MSI GeForce RTX 2070
+WD 2TB hard drive
 OS: Ubuntu, Windows
 
 
