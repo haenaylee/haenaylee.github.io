@@ -14,7 +14,7 @@ My next goal is to make an updated version with water cooling.
 
 I want to acknowledge that this would not have been possible without my parents' financial support. I am so grateful to have had the privilege to be able to pursue this project thanks to my lovely parents.
 
-**// SPECS //**
+<strong>// SPECS //</strong>
 <br> 2024 update:
 <br>RAM 32GB -> 64GB
 <br>GPU 2070 -> 3090
@@ -35,10 +35,10 @@ I want to acknowledge that this would not have been possible without my parents'
         {% include figure.liquid loading="eager" path="assets/img/pc1.png" title="pc1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pc2.jpg" title="pc2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pc2.png" title="pc2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pc3.jpg" title="pc3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pc3.png" title="pc3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
