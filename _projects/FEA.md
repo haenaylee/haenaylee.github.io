@@ -60,12 +60,6 @@ related_publications: true
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/FEA6.png" title="FEA6" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    results
-</div>
-
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/FEA7.png" title="FEA7" class="img-fluid rounded z-depth-1" %}
     </div>
