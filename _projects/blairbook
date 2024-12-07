@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <em>The Blair Book</em>
+title: _The Blair Book_
 description: my first publication.
 img: assets/img/blairbook.png
 importance: 3
@@ -8,18 +8,13 @@ category: fun
 giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+When I graduated from my STEM Magnet high school, I had regrets about how I had strategized going through high school and preparing for college applications.
+I thought that if I were to go through the process again, I would have a lot of advice that I could give to myself.
+So I wrote a guide on my experience through high school and the college application process in the hopes that other young students might be able to be more informed and prepare themselves well for the academic journey.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The book covers everything from statistics to stereotypes - the structure of the school programs, the resources offered, student life, etc.
+It also includes other students' experiences and a lot of heartfelt advice from yours truly.
+I'm always happy to send you a free copy, just shoot me an email.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
