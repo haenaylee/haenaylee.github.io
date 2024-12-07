@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-// FIRST STUDY //
+<h1>// FIRST STUDY //</h1>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
