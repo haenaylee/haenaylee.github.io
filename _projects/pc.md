@@ -32,7 +32,7 @@ I want to acknowledge that this would not have been possible without my parents'
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pc1.jpg" title="pc1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pc1.png" title="pc1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/pc2.jpg" title="pc2" class="img-fluid rounded z-depth-1" %}
