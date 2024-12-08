@@ -6,7 +6,7 @@ img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: false
-related_publications: true
+related_publications: false
 ---
 
 
