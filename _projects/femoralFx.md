@@ -16,10 +16,10 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/femoralFx1.jpg" title="femoralFx1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/femoralFx2.jpg" title="femoralFx2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/femoralFx2.png" title="femoralFx2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/femoralFx3.jpg" title="femoralFx3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/femoralFx3.png" title="femoralFx3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
