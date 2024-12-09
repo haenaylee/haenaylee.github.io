@@ -16,14 +16,14 @@ I would love to share some of my reading recommendations with you. These texts h
 
 {% tab reading essays %}
 
-"How to Do Great Work", Paul Graham
+"How to Do Great Work," Paul Graham
 
 {% endtab %}
 
 {% tab reading poem %}
 
-"The Wasteland", TS Eliot
-_타인의 시선을 의식해 힘든 나에게_, 글배우
+"The Wasteland," TS Eliot
+<br>_타인의 시선을 의식해 힘든 나에게_, 글배우
 
 {% endtab %}
 
@@ -36,9 +36,9 @@ _Atomic Habits_, James Clear
 {% tab reading fiction %}
 
 _All the Light We Cannot See_, Anthony Doerr
-_The Paper Menagerie_, Ken Liu
-_Einstein's Dreams_, Alan Lightman
-_Ninth House_, Leigh Bardugo
+<br>_The Paper Menagerie_, Ken Liu
+<br>_Einstein's Dreams_, Alan Lightman
+<br>_Ninth House_, Leigh Bardugo
 
 {% endtab %}
 
