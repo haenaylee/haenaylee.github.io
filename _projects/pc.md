@@ -8,7 +8,7 @@ category: fun
 related_publications: false
 ---
 
-During my MEng (and the pandemic!), I created a PC to see if I could train my machine learning model on an NVIDIA GPU. This was a very fun project through which I learned the basics of computer hardware assembly and software installation. I am by no means an expert, so I hope to continue learning more about computers through these kinds of projects. My next goal is to make an updated version with water cooling!
+During my MEng (and the pandemic!), I created a PC to see if I could train my machine learning model on an NVIDIA GPU. This was a very fun project through which I learned the basics of computer hardware assembly and software installation. I am by no means an expert, so I hope to continue learning more about computers through these kinds of projects. My next goal is to make an updated version with water cooling, just for fun.
 
 I want to acknowledge that this would not have been possible without my parents' financial support. I am so grateful to have had the privilege to be able to pursue this project thanks to my lovely and supportive parents.
 
