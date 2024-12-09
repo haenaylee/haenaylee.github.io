@@ -13,6 +13,7 @@ English and art were the subjects I were effortlessly engrossed in as a kid. Fro
 
 My goal is to practice the Renaissance-era style of drawing (and later, painting) until I can bring a particular vision of mine to life. It will be my way of acknowledging and grappling with the magnitude of suffering in the world. But I have yet to take classes or devote long hours to practicing so I have a long, exciting way to go!
 
+<br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/dancer.jpg" title="dancer" class="img-fluid rounded z-depth-1" %}
