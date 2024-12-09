@@ -14,7 +14,7 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Hi there! I'm a mechanical engineer working to advance _human-centered biomedical engineering._ I aim to develop equitable and accessible healthcare technologies that understand the needs of patients and clinicians to provide the most optimal and personalized care. My main technical skills are in computational modeling and coding. I'm also a pretty decent public speaker.
+Hi there! I'm a mechanical engineer working to advance _human-centered biomedical engineering._ I aim to develop equitable and accessible healthcare technologies that understand the needs of patients and clinicians to provide the most optimal and personalized care. My main technical skill is computational modeling (FEA, CFD, CAD, ML). I really enjoy mechanical design, machining, and fabrication as well. I'm also a pretty decent public speaker.
 
 For the past three years, I worked as a Research Engineer II in the <a href='https://www.hss.edu/biomechanics-research-staff.asp'>Department of Biomechanics</a> at the Hospital for Special Surgery in NYC. Prior to that, I graduated from Cornell University with a B.S. and M.Eng in Mechanical Engineering.
 
