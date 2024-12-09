@@ -2,7 +2,7 @@
 layout: page
 title: loading femoral fracture models
 description: four HSS experimental studies.
-img: assets/img/3.jpg
+img: assets/img/femoralFx_background.png
 importance: 2
 category: work
 giscus_comments: false
