@@ -9,6 +9,6 @@ categories: work-philosophy
 tabs: true
 ---
 
-<a href='https://paulgraham.com/greatwork.html'>"How to Do Great Work"</a> by Paul Graham is a great read and guide that I try to adhere to.
+<a href='https://paulgraham.com/greatwork.html'>"How to Do Great Work"</a> by Paul Graham is a wonderful guide that I try to adhere to.
 
 My work style and communication preferences - coming soon.
