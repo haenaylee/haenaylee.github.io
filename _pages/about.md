@@ -18,7 +18,7 @@ Hi there! I'm a mechanical engineer working to advance _human-centered biomedica
 
 For the past three years, I worked as a Research Engineer II in the <a href='https://www.hss.edu/biomechanics-research-staff.asp'>Department of Biomechanics</a> at the Hospital for Special Surgery in NYC. Prior to that, I graduated from Cornell University with a B.S. and M.Eng in Mechanical Engineering.
 
-Outside of work, I love to <a href='https://www.librarything.com/catalog/haenaylee'>read</a>, <a href='projects/drawing'>draw</a>, play video games, and take care of my two cats and 70+ plants. I'm also constantly thinking of creative ways to design and renovate living spaces. My long-term dreams include building a school in a rural area, a cat sanctuary with my mom, and a vintage coffee/book/flower shop as a community safe space.
+Outside of work, I love to <a href='https://www.librarything.com/catalog/haenaylee'>read</a>, <a href='projects/drawing'>draw</a>, play video games, and take care of my two cats and 70+ plants. I'm also constantly thinking of creative ways to design and renovate living spaces. My long-term dreams include building a school in a rural area, a cat sanctuary with my mom, and a vintage art/coffee/book/flower shop community space.
 
 I would love to connect with you and hear your story! The best way to reach me is by email at <a href="mailto:hylee2716@gmail.com">hylee2716@gmail.com</a>.
 
